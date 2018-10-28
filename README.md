@@ -1,2 +1,2 @@
 # hello-world
-first respository
+first respository第一次使用
